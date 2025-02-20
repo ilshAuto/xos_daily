@@ -1,4 +1,4 @@
-# ILSH Sandwatch V1.0
+# ILSH XOS V1.0
 
 ## 社区支持
 - 💬 官方：[空投信息、脚本TG频道](https://t.me/ilsh_auto)
